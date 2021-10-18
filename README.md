@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @ibrahimismailov
 - 👀 I’m interested in ...ios developer
-- 🌱 I’m currently learning ...Swift
+- 🌱 I’m currently learning ...Swift and  SwiftUI
